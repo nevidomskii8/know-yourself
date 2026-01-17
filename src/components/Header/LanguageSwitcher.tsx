@@ -22,7 +22,7 @@ export function LanguageSwitcher({ variant = 'desktop' }: LanguageSwitcherProps)
 
   const isMobile = variant === 'mobile'
 
-  // Закрытие при клике вне меню и по клавише Escape
+
   useClickOutside(dropdownRef, closeDropdown, isOpen)
   useEscapeKey(closeDropdown, isOpen)
 

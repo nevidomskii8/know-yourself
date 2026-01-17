@@ -289,7 +289,7 @@ export function ActivitiesPage() {
                 <h4 className="font-semibold text-amber-800 mb-2">{t('activities_page.ukraine.groups.schedule_label')}</h4>
                 <p className="text-sm text-amber-700">{t('activities_page.ukraine.groups.schedule_value')}</p>
               </div>
-              <Button variant="primary" className="w-full bg-amber-500 hover:bg-amber-600">
+              <Button className="w-full bg-amber-500 hover:bg-amber-600 text-white font-medium px-4 py-2 rounded-lg transition-colors">
                 {t('activities_page.ukraine.groups.cta')}
               </Button>
             </Card>

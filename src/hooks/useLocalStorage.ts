@@ -1,7 +1,7 @@
-import { useState, useEffect } from 'react'
+import { useState } from 'react'
 
 export function useLocalStorage<T>(key: string, initialValue: T) {
-  // Получаем значение из localStorage или используем начальное значение
+
   const [storedValue, setStoredValue] = useState<T>(() => {
     try {
       const item = window.localStorage.getItem(key)
@@ -12,10 +12,9 @@ export function useLocalStorage<T>(key: string, initialValue: T) {
     }
   })
 
-  // Функция для обновления значения
+
   const setValue = (value: T | ((val: T) => T)) => {
     try {
-      // Позволяем value быть функцией, чтобы обновить состояние
       const valueToStore = value instanceof Function ? value(storedValue) : value
       setStoredValue(valueToStore)
       window.localStorage.setItem(key, JSON.stringify(valueToStore))

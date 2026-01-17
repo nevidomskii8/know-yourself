@@ -1,7 +1,8 @@
 import { NavLink } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
-import { LanguageSwitcher } from './LanguageSwitcher'
+
 import { navLinkStyles, bookButtonStyles } from '../../utils/navigationStyles'
+import { LanguageSwitcher } from './LanguageSwitcher'
 
 export function DesktopNavigation() {
   const { t } = useTranslation()
