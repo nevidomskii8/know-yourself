@@ -1,0 +1,462 @@
+{
+  "header": {
+    "logo": "Path to Self",
+    "home": "Home",
+    "services": "Services",
+    "activities": "Activities",
+    "about": "About Us",
+    "book": "Book Now"
+  },
+  "languages": {
+    "en": "EN",
+    "ru": "RU",
+    "uk": "UK"
+  },
+  "footer": {
+    "description": "Professional psychological help in a cozy atmosphere. We help to find peace of mind and harmony.",
+    "services_title": "Services",
+    "support_title": "Support",
+    "services": {
+      "individual": "Individual Consultations",
+      "family": "Family Consultations",
+      "meditation": "Meditative Practices",
+      "body": "Body Practices",
+      "art": "Art Therapy",
+      "ukraine": "Ukraine Support"
+    },
+    "support": {
+      "help": "Help",
+      "faq": "FAQ",
+      "contacts": "Contacts",
+      "about": "About Us"
+    },
+    "copyright": "© 2024 Path to Self. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use"
+  },
+  "home": {
+    "hero": {
+      "title": "Psychological",
+      "title_accent": "Center",
+      "description": "Comprehensive psychological help: individual and family consultations, meditative and body practices, art therapy, and special support for displaced persons",
+      "cta_book": "Book a Consultation",
+      "cta_more": "Learn More"
+    },
+    "services": {
+      "title": "Our Services",
+      "description": "A comprehensive approach to psychological health using modern therapy methods",
+      "meditation": {
+        "title": "Meditative Practices",
+        "desc": "Group meditations, mindfulness, relaxation, sound baths, and sound healing"
+      },
+      "groups": {
+        "title": "Support Groups",
+        "desc": "Psycho-emotional support groups for sharing experience and mutual aid"
+      },
+      "body": {
+        "title": "Body Practices",
+        "desc": "Dance-movement therapy, body therapy, bioenergetics, yoga therapy"
+      },
+      "art": {
+        "title": "Art Therapy",
+        "desc": "Drawing, painting, collage, and other creative methods of self-expression"
+      },
+      "individual": {
+        "title": "Individual Consultations",
+        "desc": "Work with anxiety, depression, stress, PTSD, loss, and personal growth"
+      },
+      "family": {
+        "title": "Family Consultations",
+        "desc": "Marital conflicts, parent-child relationships, divorce, communication"
+      },
+      "ukraine": {
+        "title": "Help for Displaced Persons",
+        "desc": "Special support program for those affected by the war in Ukraine"
+      },
+      "eq": {
+        "title": "Emotional Intelligence",
+        "desc": "Development of emotional awareness, empathy, and emotion management"
+      }
+    },
+    "cta": {
+      "title": "Ready to Start Your Journey to Healing?",
+      "description": "Book a consultation and get a personalized recovery plan",
+      "book": "Book a Consultation",
+      "contact": "Contact Us"
+    },
+    "about": {
+      "title": "About Our Approach",
+      "description": "A holistic approach to psychological healing",
+      "how_it_works": {
+        "title": "How It Works?",
+        "step1_title": "Initial Consultation",
+        "step1_desc": "Getting to know you and assessing your needs",
+        "step2_title": "Individual Plan",
+        "step2_desc": "Developing a personalized therapy program",
+        "step3_title": "Comprehensive Therapy",
+        "step3_desc": "Integration of various healing methods"
+      },
+      "benefits": {
+        "title": "Benefits for You",
+        "item1": "Professional support",
+        "item2": "Individual approach",
+        "item3": "Comfortable atmosphere",
+        "item4": "Comprehensive healing"
+      }
+    }
+  },
+  "services_page": {
+    "hero": {
+      "title": "Our",
+      "title_accent": "Services",
+      "description": "Comprehensive psychological help: from individual consultations to group programs and creative practices"
+    },
+    "consultations": {
+      "title": "Individual and Family Consultations",
+      "description": "Personal approach and professional help in solving psychological problems",
+      "individual": {
+        "title": "Individual Consultations",
+        "subtitle": "Personal work with a specialist",
+        "description": "Professional psychological help for adults in working with personal problems and life crises",
+        "items": {
+          "crises": "Personal crises and difficult life situations",
+          "crises_desc": "Support during difficult periods of life",
+          "anxiety": "Anxiety, depression, stress",
+          "anxiety_desc": "Work with emotional states",
+          "relationships": "Relationships and conflicts",
+          "relationships_desc": "Improving interpersonal relationships",
+          "self_esteem": "Self-esteem and personal growth",
+          "self_esteem_desc": "Developing confidence and self-discovery",
+          "burnout": "Burnout",
+          "burnout_desc": "Restoring energy and motivation",
+          "loss": "Loss and grieving",
+          "loss_desc": "Support during the process of experiencing loss",
+          "trauma": "Psycho-trauma and PTSD",
+          "trauma_desc": "Specialized work with trauma"
+        },
+        "cta": "Book a Consultation"
+      },
+      "family": {
+        "title": "Family Consultations",
+        "subtitle": "Work with family relationships",
+        "description": "Helping families and couples in solving conflicts, improving communication and strengthening relationships",
+        "items": {
+          "conflicts": "Marital conflicts",
+          "conflicts_desc": "Resolving disagreements and improving relationships",
+          "parenting": "Parent-child problems",
+          "parenting_desc": "Establishing contact with children",
+          "divorce": "Divorce and its consequences",
+          "divorce_desc": "Support for the family during the divorce period",
+          "communication": "Communication in the family",
+          "communication_desc": "Improving mutual understanding"
+        },
+        "quote": "Family therapy helps restore harmony and create a healthy atmosphere in the family",
+        "cta": "Book a Family Consultation"
+      }
+    },
+    "group_creative": {
+      "title": "Group and Creative Programs",
+      "description": "Comprehensive working methods for restoring peace of mind",
+      "meditation": {
+        "title": "Meditative Practices",
+        "subtitle": "Deep relaxation and mindfulness",
+        "description": "Group and individual meditative sessions to restore internal balance",
+        "items": [
+          "Group meditations",
+          "Mindfulness (mindfulness practices)",
+          "Relaxation techniques",
+          "Sound baths/sound therapy",
+          "Sound healing"
+        ]
+      },
+      "support": {
+        "title": "Support Groups",
+        "subtitle": "Communicative therapy",
+        "description": "Psycho-emotional support groups for sharing experience and mutual aid",
+        "items": [
+          "Safe space for communication",
+          "Sharing experience with people in a similar situation",
+          "Developing emotional support skills",
+          "Strengthening social ties"
+        ]
+      },
+      "body": {
+        "title": "Body-Oriented Practices",
+        "subtitle": "Work through the body",
+        "description": "Methods of working with the body to release emotions and relieve tension",
+        "items": [
+          "Dance-movement therapy",
+          "Body therapy",
+          "Bioenergetics",
+          "Yoga therapy"
+        ]
+      },
+      "art": {
+        "title": "Art Therapy",
+        "subtitle": "Creative self-expression",
+        "description": "Work with emotions and experiences through creativity and artistic self-expression",
+        "items": [
+          "Drawing and painting",
+          "Creating collages",
+          "Creative projects for self-discovery",
+          "Group and individual sessions"
+        ]
+      }
+    },
+    "eq": {
+      "title": "Emotional Intelligence Development",
+      "description": "Programs for developing emotion management skills and improving quality of life",
+      "card_title": "Emotional Intelligence Development",
+      "card_subtitle": "Practical skills for life",
+      "card_description": "Learning conscious work with emotions, developing empathy and improving interpersonal relationships",
+      "features": {
+        "emotions_title": "Work with Emotions",
+        "emotions_desc": "Recognizing, understanding and managing your emotions",
+        "empathy_title": "Empathy Development",
+        "empathy_desc": "Improving the ability to understand and feel the emotions of other people",
+        "awareness_title": "Emotional Awareness",
+        "awareness_desc": "Developing mindfulness to your emotional states"
+      },
+      "results": "<strong>Results:</strong> Improving relationships, increasing stress resistance, developing self-regulation skills, a deeper understanding of yourself and others",
+      "cta": "Enroll in the Program"
+    },
+    "ukraine": {
+      "title": "Special Support for Displaced Persons",
+      "description": "Comprehensive psychological help for displaced persons affected by the war in Donbas and Russian military aggression in Ukraine",
+      "anxiety": {
+        "title": "Work with Anxiety and Fears",
+        "subtitle": "Help with anxious states",
+        "description": "Specialized help in working with anxiety, fears and panic attacks caused by the war",
+        "items": {
+          "anxiety": "Work with anxiety and fears",
+          "anxiety_desc": "Reducing general anxiety and working through specific fears",
+          "panic": "Panic attacks",
+          "panic_desc": "Techniques for stopping and preventing panic attacks",
+          "stress": "Stress management",
+          "stress_desc": "Learning stress management skills",
+          "grounding": "Grounding techniques",
+          "grounding_desc": "Methods for rapid stabilization of the emotional state"
+        },
+        "cta": "Get Help"
+      },
+      "ptsd": {
+        "title": "PTSD Therapy",
+        "subtitle": "Work with war trauma",
+        "description": "Professional therapy of post-traumatic stress disorder for those who have experienced military actions",
+        "items": {
+          "emdr": "EMDR therapy",
+          "emdr_desc": "Desensitization and reprocessing of traumatic memories",
+          "trauma": "Trauma-focused therapy",
+          "trauma_desc": "Specialized work with traumatic experience",
+          "groups": "Support groups",
+          "groups_desc": "Meetings with people with a similar experience of experiencing trauma"
+        },
+        "cta": "Sign up for Therapy"
+      },
+      "adaptation": {
+        "title": "Adaptation to New Conditions",
+        "subtitle": "Help in integration and recovery",
+        "description": "Comprehensive support in the process of adaptation to a new environment, restoration of social ties and building a new life",
+        "social_title": "Social Adaptation",
+        "social_desc": "Integration into a new society and restoration of social ties",
+        "stress_title": "Work with Stress of Change",
+        "stress_desc": "Overcoming stress associated with changes in living conditions",
+        "resources_title": "Resource Recovery",
+        "resources_desc": "Searching for internal and external resources for a new life",
+        "cta": "Get Support in Adaptation"
+      },
+      "slogan": "Glory to Ukraine! Glory to the Heroes!",
+      "support_desc": "We support Ukraine and are ready to help everyone who suffered from military aggression"
+    },
+    "cta": {
+      "title": "Ready to Start the Path to Healing?",
+      "description": "Contact us for a personal consultation",
+      "book": "Book a Consultation",
+      "contact": "Contact Us"
+    }
+  },
+  "activities_page": {
+    "hero": {
+      "title": "Our",
+      "title_accent": "Activities",
+      "description": "Diverse therapeutic activities for comprehensive restoration of peace of mind"
+    },
+    "main": {
+      "title": "Main Activities",
+      "description": "Regular therapeutic activities to maintain psychological health",
+      "meditation": {
+        "title": "Meditative Practices",
+        "subtitle": "With experienced yoga instructors",
+        "description": "Deep meditative sessions to restore internal balance, relieve tension and develop mindfulness",
+        "morning": "Morning Sessions",
+        "morning_desc": "Starting the day with mindfulness meditation",
+        "evening": "Evening Practices",
+        "evening_desc": "Relaxation and preparation for sleep",
+        "items": [
+          "Mindfulness Meditation",
+          "Breathing Practices (Pranayama)",
+          "Yoga Therapy",
+          "Visualization Techniques"
+        ],
+        "cta": "Sign up for Meditation"
+      },
+      "massage": {
+        "title": "Wellness Massages",
+        "subtitle": "Professional massages",
+        "description": "Healing massages to relieve physical and emotional tension, restore energy balance",
+        "individual": "Individual Sessions",
+        "individual_desc": "Personal approach to each client",
+        "group": "Group Sessions",
+        "group_desc": "Joint relaxation practices",
+        "items": [
+          "Relaxation Massage",
+          "Trigger Point Therapy (Acupressure)",
+          "Aromatherapy Massage",
+          "Hot Stone Massage"
+        ],
+        "cta": "Sign up for Massage"
+      }
+    },
+    "music": {
+      "title": "Music Therapy",
+      "description": "Healing power of music for emotional balance restoration",
+      "card": {
+        "title": "Music Sessions",
+        "description": "Use of music to restore emotional balance and internal harmony",
+        "items": [
+          { "title": "Musical Relaxation", "desc": "Specially selected music for deep relaxation" },
+          { "title": "Sound Therapy", "desc": "Use of nature sounds and instruments" },
+          { "title": "Creative Self-expression", "desc": "Musical improvisations and composition" },
+          { "title": "Group Music Practices", "desc": "Joint music-making and singing" }
+        ]
+      },
+      "schedule": {
+        "title": "Session Schedule",
+        "mon": "Monday",
+        "wed": "Wednesday",
+        "fri": "Friday",
+        "sun": "Sunday"
+      },
+      "take_with": {
+        "title": "What to Bring",
+        "clothes": "Comfortable clothes",
+        "mat": "Meditation mat",
+        "water": "Bottle of water",
+        "heart": "An open heart"
+      }
+    },
+    "children": {
+      "title": "Children's Programs",
+      "description": "Special activities for children and teenagers",
+      "art": {
+        "title": "Art Therapy",
+        "description": "Creative self-expression through drawing, modeling and other types of art",
+        "items": [ "Drawing emotions", "Clay modeling", "Collages", "Mandalas" ]
+      },
+      "game": {
+        "title": "Game Therapy",
+        "description": "Use of games for development of emotional intelligence and social skills",
+        "items": [ "Role-playing games", "Board games", "Active games", "Creative games" ]
+      },
+      "family": {
+        "title": "Family Sessions",
+        "description": "Joint activities to strengthen family ties and understanding",
+        "items": [ "Family meditations", "Joint creativity", "Trust games", "Discussing feelings" ]
+      }
+    },
+    "ukraine": {
+      "title": "Special Activities for Displaced Persons",
+      "description": "Special therapeutic activities for people affected by Russian military aggression in Ukraine",
+      "groups": {
+        "title": "Therapeutic Groups for Displaced Persons",
+        "subtitle": "Special group sessions",
+        "description": "Group meetings for displaced persons to share experiences, get support and find understanding",
+        "items": [
+          { "title": "Self-help Groups", "desc": "Meetings with people who have had a similar experience" },
+          { "title": "Therapeutic Groups", "desc": "Professional group therapy" },
+          { "title": "Family Sessions", "desc": "Work with families of displaced persons" }
+        ],
+        "schedule_label": "Schedule:",
+        "schedule_value": "Tuesday and Thursday, 18:00-20:00",
+        "cta": "Join the Group"
+      },
+      "art": {
+        "title": "Art Therapy for Displaced Persons",
+        "subtitle": "Creative self-expression",
+        "description": "Special art therapy sessions for expressing experiences and emotions through creativity",
+        "items": [
+          { "title": "Drawing Emotions", "desc": "Expressing experiences through painting" },
+          { "title": "Clay Modeling", "desc": "Working with tactile sensations" },
+          { "title": "Collages and Mandalas", "desc": "Creating symbolic images" }
+        ],
+        "schedule_label": "Schedule:",
+        "schedule_value": "Saturday, 10:00-12:00",
+        "cta": "Sign up for Art Therapy"
+      }
+    },
+    "cta": {
+      "title": "Join Our Activities",
+      "description": "Choose activities that suit you and start the path to healing",
+      "schedule": "View Schedule",
+      "book": "Sign up for Activity"
+    }
+  },
+  "contact_page": {
+    "hero": {
+      "title": "Contact",
+      "title_accent": "Us",
+      "description": "We are ready to help you on your way to healing and restoring peace of mind"
+    },
+    "form": {
+      "title": "Book a Consultation",
+      "first_name": "Name *",
+      "first_name_placeholder": "Your name",
+      "last_name": "Last Name *",
+      "last_name_placeholder": "Your last name",
+      "email": "Email *",
+      "email_placeholder": "your@email.com",
+      "phone": "Phone",
+      "phone_placeholder": "+380 (99) 123-45-67",
+      "service": "Interested Service",
+      "service_placeholder": "Select a service",
+      "services": {
+        "stress": "Work with Stress",
+        "ptsd": "Work with PTSD",
+        "group": "Group Meetings",
+        "meditation": "Meditative Practices",
+        "massage": "Wellness Massages",
+        "music": "Music Therapy",
+        "children": "Work with Children",
+        "consultation": "Initial Consultation"
+      },
+      "message": "Message",
+      "message_placeholder": "Tell us about your needs and goals...",
+      "submit": "Submit Application"
+    },
+    "details": {
+      "title": "Contact Information",
+      "address_title": "Address",
+      "address_value": "vul. Psykholohichna, 123\nKyiv, 01001",
+      "phone_title": "Phone",
+      "email_title": "Email",
+      "hours_title": "Working Hours",
+      "hours": {
+        "mon_fri": "Mon-Fri: 9:00 - 21:00",
+        "sat": "Sat: 10:00 - 18:00",
+        "sun": "Sun: 10:00 - 16:00"
+      }
+    },
+    "emergency": {
+      "title": "Emergency Help",
+      "description": "If you need urgent psychological help",
+      "hotline": "Hotline: 0-800-123-45-67",
+      "chat": "Online Support Chat"
+    },
+    "map": {
+      "title": "How to Find Us",
+      "description": "We are located in the city center, easy to reach by any transport",
+      "card_title": "Interactive Map",
+      "card_description": "An interactive map with our location will be embedded here"
+    }
+  }
+}

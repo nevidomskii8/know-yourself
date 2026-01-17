@@ -1,0 +1,144 @@
+/* Дополнительные стили для психологического центра */
+/* Тёплая нейтральная палитра: бежевый, песочный, мягкий персиковый */
+
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Анимации */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes gentlePulse {
+  0%, 100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.02);
+  }
+}
+
+@keyframes breathe {
+  0%, 100% {
+    transform: scale(1);
+    opacity: 0.8;
+  }
+  50% {
+    transform: scale(1.05);
+    opacity: 1;
+  }
+}
+
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-8px);
+  }
+}
+
+.fade-in {
+  animation: fadeIn 0.6s ease-out;
+}
+
+.gentle-pulse {
+  animation: gentlePulse 3s ease-in-out infinite;
+}
+
+.breathe {
+  animation: breathe 4s ease-in-out infinite;
+}
+
+.float {
+  animation: float 5s ease-in-out infinite;
+}
+
+/* Тёплые психологические градиенты */
+.warm-gradient {
+  background: linear-gradient(135deg, #fdf8f5 0%, #faf0e8 50%, #f5dfd0 100%);
+}
+
+.peach-gradient {
+  background: linear-gradient(135deg, #fef9f6 0%, #fdf2ec 50%, #fce6dc 100%);
+}
+
+.sand-gradient {
+  background: linear-gradient(135deg, #fefdfb 0%, #fdfaf5 50%, #faf4ea 100%);
+}
+
+.beige-gradient {
+  background: linear-gradient(135deg, #fdfcfb 0%, #fbf8f5 50%, #f7f1ea 100%);
+}
+
+.healing-warm-gradient {
+  background: linear-gradient(145deg, #fdf8f5 0%, #fef9f6 25%, #fefdfb 50%, #fdfcfb 100%);
+}
+
+/* Кастомные скроллбары */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #fdfaf5;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #e3cfad;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #d4ba8f;
+}
+
+/* Плавные переходы для терапевтического эффекта */
+.therapeutic-transition {
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.therapeutic-hover:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 20px 40px -10px rgba(198, 122, 72, 0.15), 0 10px 20px -5px rgba(198, 122, 72, 0.1);
+}
+
+/* Стили для медитативных элементов */
+.meditation-card {
+  background: linear-gradient(145deg, #ffffff 0%, #fdfaf5 100%);
+  border: 1px solid #f5ebdb;
+  box-shadow: 0 4px 20px -2px rgba(198, 122, 72, 0.08), 0 2px 8px -2px rgba(198, 122, 72, 0.04);
+}
+
+.meditation-card:hover {
+  box-shadow: 0 25px 50px -12px rgba(198, 122, 72, 0.15), 0 12px 24px -8px rgba(198, 122, 72, 0.1);
+  transform: translateY(-6px);
+}
+
+/* Декоративные элементы */
+.warm-blob {
+  background: radial-gradient(circle at 30% 30%, #fce6dc 0%, #f9d4c3 40%, transparent 70%);
+}
+
+.sand-blob {
+  background: radial-gradient(circle at 70% 70%, #faf4ea 0%, #eddfc7 40%, transparent 70%);
+}
+
+/* Мягкие тени */
+.soft-shadow {
+  box-shadow: 0 4px 20px -4px rgba(198, 122, 72, 0.1), 0 2px 8px -2px rgba(198, 122, 72, 0.06);
+}
+
+.soft-shadow-lg {
+  box-shadow: 0 10px 40px -8px rgba(198, 122, 72, 0.15), 0 4px 16px -4px rgba(198, 122, 72, 0.08);
+}
